@@ -35,14 +35,12 @@ document.addEventListener("DOMContentLoaded", function () {
     navCenter.classList.toggle("active");
 
     if (navLinks.classList.contains("active")) {
-      icon.src =
-        "https://api.iconify.design/heroicons-outline:x.svg?color=white";
+      icon.src = "./icons/x.svg";
       icon.alt = "Close menu";
 
       updateMobileMenu();
     } else {
-      icon.src =
-        "https://api.iconify.design/heroicons-outline:menu.svg?color=white";
+      icon.src = "./icons/menu.svg";
       icon.alt = "Menu";
     }
   });
