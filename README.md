@@ -5,101 +5,101 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-## 📝 Deskripsi
+## 📝 Description
 
-Proyek ini merupakan implementasi responsive navbar dengan fitur hamburger menu menggunakan DOM manipulation. Dibuat sebagai bagian dari pembelajaran Front-End pada bootcamp FGO24 (Full-stack Generasi GIGIH Online 2024).
+This project is an implementation of a responsive navbar with hamburger menu functionality using DOM manipulation. It was created as part of the Front-End learning module in the FGO24 (Full-stack Generasi GIGIH Online 2024) bootcamp.
 
-## ✨ Fitur
+## ✨ Features
 
-- Responsive navbar yang berubah menjadi hamburger menu pada tampilan mobile
-- Animasi smooth saat menu dibuka dan ditutup
-- Implementasi menggunakan vanilla JavaScript tanpa library tambahan
-- Styling modern dengan CSS
-- Live-server untuk pengembangan yang lebih cepat
+- Responsive navbar that transforms into a hamburger menu on mobile view
+- Smooth animations when opening and closing the menu
+- Implementation using vanilla JavaScript without additional libraries
+- Modern styling with CSS
+- Live-server for faster development
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (DOM Manipulation)
 - Live-server
 
-## 📋 Prasyarat
+## 📋 Prerequisites
 
-Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
+Before running this project, make sure you have installed:
 
-- [Node.js](https://nodejs.org/) (untuk menjalankan live-server)
-- Text editor (disarankan [VS Code](https://code.visualstudio.com/))
+- [Node.js](https://nodejs.org/) (to run live-server)
+- Text editor (recommended: [VS Code](https://code.visualstudio.com/))
 
-## 🚀 Cara Menggunakan
+## 🚀 How to Use
 
-### Mengkloning Repository
+### Cloning the Repository
 
 ```bash
 git clone https://github.com/riezaekatomara/fgo24-dom-navbar-hamburger.git
 cd fgo24-dom-navbar-hamburger
 ```
 
-### Menjalankan Project
+### Running the Project
 
-1. Install live-server jika belum memilikinya:
+1. Install live-server if you don't have it already:
 
 ```bash
 npm install -g live-server
 ```
 
-2. Jalankan live-server di directory project:
+2. Run live-server in the project directory:
 
 ```bash
 live-server
 ```
 
-3. Browser akan otomatis terbuka dengan aplikasi yang berjalan pada `http://localhost:8080`
+3. A browser will automatically open with the application running at `http://localhost:8080`
 
-## 📱 Tampilan Responsif
+## 📱 Responsive Display
 
-Navbar akan menampilkan menu hamburger pada layar dengan lebar < 768px. Klik icon hamburger untuk membuka/menutup menu navigasi.
+The navbar will display a hamburger menu on screens with width < 768px. Click the hamburger icon to open/close the navigation menu.
 
-## 📚 Struktur Project
+## 📚 Project Structure
 
 ```
 fgo24-dom-navbar-hamburger/
-├── index.html           # File HTML utama
+├── index.html           # Main HTML file
 ├── styles/
-│   └── style.css        # Stylesheet utama
+│   └── style.css        # Main stylesheet
 ├── scripts/
-│   └── script.js        # JavaScript untuk DOM manipulation
-└── README.md            # File yang sedang Anda baca
+│   └── script.js        # JavaScript for DOM manipulation
+└── README.md            # The file you're reading now
 ```
 
-## 🧠 Apa yang Dipelajari
+## 🧠 Learning Outcomes
 
-- Manipulasi DOM dengan JavaScript
+- DOM manipulation with JavaScript
 - Event handling
-- Responsive design dengan CSS
-- Pembuatan animasi sederhana
-- Penggunaan flexbox untuk layout
+- Responsive design with CSS
+- Creating simple animations
+- Using flexbox for layout
 
-## 🔄 Kontribusi
+## 🔄 Contribution
 
-Kontribusi selalu diterima! Jika Anda ingin berkontribusi:
+Contributions are always welcome! If you'd like to contribute:
 
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b fitur-baru`)
-3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru'`)
-4. Push ke branch (`git push origin fitur-baru`)
-5. Buka Pull Request
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a Pull Request
 
-## 📜 Lisensi
+## 📜 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## 📞 Kontak
+## 📞 Contact
 
 Rieza Eka Tomara - [GitHub](https://github.com/riezaekatomara)
 
-Link Project: [https://github.com/riezaekatomara/fgo24-dom-navbar-hamburger](https://github.com/riezaekatomara/fgo24-dom-navbar-hamburger)
+Project Link: [https://github.com/riezaekatomara/fgo24-dom-navbar-hamburger](https://github.com/riezaekatomara/fgo24-dom-navbar-hamburger)
 
 ---
 
-Dibuat dengan ❤️ oleh Rieza Eka Tomara
+Made with ❤️ by Rieza Eka Tomara
