@@ -65,9 +65,9 @@ The navbar will display a hamburger menu on screens with width < 768px. Click th
 ```
 fgo24-dom-navbar-hamburger/
 ├── index.html           # Main HTML file
-├── styles/
-│   └── style.css        # Main stylesheet
-├── scripts/
+├── css/
+│   └── styles.css        # Main stylesheet
+├── js/
 │   └── script.js        # JavaScript for DOM manipulation
 └── README.md            # The file you're reading now
 ```
